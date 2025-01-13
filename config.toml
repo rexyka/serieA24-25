@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0D0D0D"  # Dark background (like Serie A's black theme)
+backgroundColor = "#121212"  # Slightly darker for the background
+secondaryBackgroundColor = "#1C1C1C"  # Sidebar and secondary background
+textColor = "#FFFFFF"  # White text
+font = "sans serif"
+
+[sidebar]
+backgroundColor = "#0D0D0D"  # Same as primary background color
+textColor = "#FFFFFF"  # White text for sidebar
